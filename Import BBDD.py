@@ -72,4 +72,4 @@ conn.commit()
 cursor.close()
 conn.close()
 
-print("🎉 Importación finalizada con éxito.")
+print("Importación finalizada con éxito.")
